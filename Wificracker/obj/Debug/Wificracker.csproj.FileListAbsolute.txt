@@ -1,0 +1,8 @@
+C:\Users\peska\source\repos\Wificracker\Wificracker\bin\Debug\Wificracker.exe.config
+C:\Users\peska\source\repos\Wificracker\Wificracker\bin\Debug\Wificracker.exe
+C:\Users\peska\source\repos\Wificracker\Wificracker\bin\Debug\Wificracker.pdb
+C:\Users\peska\source\repos\Wificracker\Wificracker\bin\Debug\SimpleWifi.dll
+C:\Users\peska\source\repos\Wificracker\Wificracker\obj\Debug\Wificracker.csproj.AssemblyReference.cache
+C:\Users\peska\source\repos\Wificracker\Wificracker\obj\Debug\Wificracker.csproj.CoreCompileInputs.cache
+C:\Users\peska\source\repos\Wificracker\Wificracker\obj\Debug\Wificracker.exe
+C:\Users\peska\source\repos\Wificracker\Wificracker\obj\Debug\Wificracker.pdb
